@@ -2,9 +2,10 @@
  
  Notes and materials for "Computational Text Analysis with Stylometry and R" course run by Joanna Byszuk and Jacek Bąkowski at the [DHSI 2025](https://dhsi.org/).
 ## Pre-course
-Before the course, please take a look at the reading list and install necessary programs.
+Before the course, please take a look at the reading list and install the necessary programs.
 
-All the suggested readings are available in the coursepack provided to you via DHSI channels. We also created additional files with further reading suggestions and installation tips in the before_the_course folder.
+All the suggested readings are available in the coursepack provided to you via DHSI channels, as we get more idea of what will be useful to your specific projects we'll add recommendations [here](https://github.com/JoannaBy/DHSI2025-Computational-Text-Analysis/blob/main/before_the_course/reading.md). 
+You will find installation tips [here](https://github.com/JoannaBy/DHSI2025-Computational-Text-Analysis/blob/main/before_the_course/installations.md)
 
 ## Schedule
 
@@ -20,7 +21,7 @@ All the suggested readings are available in the coursepack provided to you via D
 9.00-12.00 Classification methods and validation of the results  
 13.30-16.00 Sequential analysis of singular works
 
-###Thursday 29th May 2025
+### Thursday 29th May 2025
 9.00-12.00 Network analysis  
 13.30-16.00 Additional useful R functions and tools 
 
