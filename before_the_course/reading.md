@@ -37,4 +37,4 @@ Texts from our blog: [https://computationalstylistics.github.io/blog/](https://c
 * [HistWords: Word Embeddings for Historical Text](https://nlp.stanford.edu/projects/histwords/) - distributional semantics for word evolution
 * [Weapons of Math Destruction](https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/) - amazing book on how correlation is not causation and how poorly designed ML had damaging effect on people
 * [Invisible Women](https://carolinecriadoperez.com/book/invisible-women/) - another fantastic book on how ignoring data on women leads to poorly designed solutions
-* 
+* [Noisy Medieval Data](https://academic.oup.com/dsh/article/36/Supplement_2/ii49/6421789)
