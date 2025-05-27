@@ -14,8 +14,9 @@ You will find installation tips [here](https://github.com/JoannaBy/DHSI2025-Comp
 13.30-16.00 Introduction to stylometry and textual analysis
 
 ### Tuesday 27th May 2025
-9.00-12.00 Introduction to supervised and unsupervised machine learning, designing a study and first experiments 
+9.00-12.00 Introduction to supervised and unsupervised machine learning, designing a study and first experiments  
 13.30-16.00 Exploratory analysis  –  corpus setup and feature engineering, unsupervised methods of text analysis  
+[culling slides](https://joannaby.github.io/Culling/Culling.html#culling-in-stylo)
 
 ### Wednesday 28th May 2025
 9.00-12.00 Classification methods and validation of the results  
@@ -29,6 +30,7 @@ You will find installation tips [here](https://github.com/JoannaBy/DHSI2025-Comp
 9.00-12.00 Summary and final works on own projects
 
 ## Useful links
+* [Computational Stylistics Group](https://computationalstylistics.github.io/)
 * [Stylo cheatsheet presentation](https://github.com/JoannaBy/stylo_nutshell)
 * Documentation of the package ‘stylo’:
     ** for (sort of) beginners: a concise [HOWTO](https://sites.google.com/site/computationalstylistics/stylo/stylo_howto.pdf)
