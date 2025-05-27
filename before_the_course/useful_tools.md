@@ -1,10 +1,12 @@
 # Useful tools
+## Learning basic R
+* [Codecademy R course](https://www.codecademy.com/learn/learn-r), free, fairly basic and easy to follow.
 
 ## Text editors
 * [Notepad++](https://notepad-plus-plus.org/) - easy-in-use editor tool, useful for changing formatting, allows for editing multiple files at the same time (Windows; there is a Linux clone named Notepadqq).
 * [Gedit](https://wiki.gnome.org/Apps/Gedit) (Linux and more)
 * [TextWrangler](https://itunes.apple.com/pl/app/textwrangler/id404010395?mt=12) (MacOS)
-* [GrepWin](https://tools.stefankueng.com/grepWin.html) - searching and replacing in multiple files at the same time.
+* [GrepWin](https://tools.stefankueng.com/grepWin.html) - searching and replacing in multiple files at the same time, finding occurrences of text patterns.
   
 ## Part-of-speech tagging tools
 * [Treetagger](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/) - one of the easiest to use
