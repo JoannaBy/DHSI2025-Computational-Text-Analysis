@@ -34,5 +34,7 @@ Texts from our blog: [https://computationalstylistics.github.io/blog/](https://c
 * Dracor - dramatic corpora analysis [https://www.dracor.org/](https://www.dracor.org/)
 
 ## Suggestions for your interests
-* [HistWords: Word Embeddings for Historical Text](https://nlp.stanford.edu/projects/histwords/)
-
+* [HistWords: Word Embeddings for Historical Text](https://nlp.stanford.edu/projects/histwords/) - distributional semantics for word evolution
+* [Weapons of Math Destruction](https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/) - amazing book on how correlation is not causation and how poorly designed ML had damaging effect on people
+* [Invisible Women](https://carolinecriadoperez.com/book/invisible-women/) - another fantastic book on how ignoring data on women leads to poorly designed solutions
+* 
