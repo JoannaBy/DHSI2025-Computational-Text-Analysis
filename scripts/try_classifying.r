@@ -99,6 +99,8 @@ results$classification.results[abs(changes)==1]
 
 
 ########################################################################################
+# based on https://computationalstylistics.github.io/blog/imposters/
+
 # prepare the text tokenization
 tokenized.texts = load.corpus.and.parse(files = "all", corpus.dir = "corpus", markup.type = "plain", language = "Other", encoding = "UTF-8")
 # make features
@@ -108,6 +110,9 @@ data = make.table.of.frequencies(tokenized.texts, features, relative = TRUE)
 
 # do the imposters
 imposters(reference.set = data[-c(1),], test = data[1,], distance="wurzburg") 
+
+# you can check what are intervals of confidence for your data with this
+imposters.optimize() 
 
 # you can also compare it with cross-validation results
 crossv(training.set = data, cv.mode = "leaveoneout", classification.method = "svm") 
