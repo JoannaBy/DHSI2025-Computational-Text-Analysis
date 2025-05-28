@@ -38,3 +38,8 @@ Texts from our blog: [https://computationalstylistics.github.io/blog/](https://c
 * [Weapons of Math Destruction](https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/) - amazing book on how correlation is not causation and how poorly designed ML had damaging effect on people
 * [Invisible Women](https://carolinecriadoperez.com/book/invisible-women/) - another fantastic book on how ignoring data on women leads to poorly designed solutions
 * [Noisy Medieval Data](https://academic.oup.com/dsh/article/36/Supplement_2/ii49/6421789)
+* [Imposters explanation](https://computationalstylistics.github.io/blog/imposters/)
+* [Cross-validation explanation](https://computationalstylistics.github.io/blog/cross-validation/)
+* [Babel, by Rebecca F. Kuang](https://en.wikipedia.org/wiki/Babel,_or_the_Necessity_of_Violence) - book exploring polysemy in between languages, (beware of feelings)
+* [Datasitters on copyright](https://datasittersclub.github.io/site/dsc7.html) and [follow-up](https://datasittersclub.github.io/site/dsc14.html)
+  
