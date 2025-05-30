@@ -30,3 +30,6 @@
 * [Voyant Tutorials](https://voyant-tools.org/docs/tutorial-start.html)
 * [Survey of methods for various tasks in computational text analysis with extensive bibliographies]( https://clsinfra.io/resources/d3-2-methods/)
 
+## Co-reference resolution (who's talking to whom)
+* [booknlp](https://github.com/booknlp/booknlp) 
+
